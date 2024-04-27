@@ -1,6 +1,3 @@
-newpage:
-	hugo new content post/my-first-post.md
-
 pub:
 	hugo
 	git add . && git commit -m "add content" && git push
