@@ -1,5 +1,5 @@
 ---
-title: Image gallery
+title: rust arc usage
 description: rust arc usage
 date: 2024-05-04 00:00:00+0000
 tags:
